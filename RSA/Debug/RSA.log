@@ -1,0 +1,9 @@
+﻿  RSA.cpp
+c:\users\андрей\source\repos\rsa\rsa\rsa.cpp(45): warning C4244: /=: преобразование "int64_t" в "int", возможна потеря данных
+c:\users\андрей\source\repos\rsa\rsa\rsa.cpp(59): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+c:\users\андрей\source\repos\rsa\rsa\rsa.cpp(59): warning C4244: аргумент: преобразование "const __int64" в "int", возможна потеря данных
+c:\users\андрей\source\repos\rsa\rsa\rsa.cpp(66): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+c:\users\андрей\source\repos\rsa\rsa\rsa.cpp(75): warning C4244: =: преобразование "double" в "int64_t", возможна потеря данных
+c:\users\андрей\source\repos\rsa\rsa\rsa.cpp(117): warning C4244: аргумент: преобразование "int64_t" в "const unsigned int", возможна потеря данных
+c:\users\андрей\source\repos\rsa\rsa\rsa.cpp(155): warning C4244: аргумент: преобразование "int64_t" в "int", возможна потеря данных
+  RSA.vcxproj -> C:\Users\Андрей\Source\Repos\RSA\Debug\RSA.exe
